@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1576992283 source:c:\users\88693\desktop\inpose\black.cpp
+
+1576937334 c:\users\88693\desktop\inpose\white.h
+	<iostream>
+	"windows.h"
+
+1577454501 source:c:\users\88693\desktop\inpose\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1576992283 source:c:\users\88693\desktop\apcs\inpose\black.cpp
+
+1577525256 source:c:\users\88693\desktop\apcs\inpose\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1615540528 source:c:\users\user\desktop\c++\inpose\black.cpp
+
+1615540528 source:c:\users\user\desktop\c++\inpose\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
